@@ -39,13 +39,13 @@ export const ROUTES: RouteInfo[] = [
     class: "",
   },
   {
-    path: "/login",
+    path: "/candidature",
     title: "Candidature",
     icon: "ni-key-25 text-info",
     class: "",
   },
   {
-    path: "/register",
+    path: "/profil",
     title: "Profil",
     icon: "ni-circle-08 text-pink",
     class: "",
