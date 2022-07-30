@@ -1,3 +1,4 @@
+import { NotifPrestatireComponent } from "./../../pages/notif-prestatire/notif-prestatire.component";
 import { ProfilComponent } from "./../../pages/profil/profil.component";
 import { Routes } from "@angular/router";
 
@@ -16,4 +17,5 @@ export const AdminLayoutRoutes: Routes = [
   { path: "maps", component: MapsComponent },
   { path: "candidature", component: CandidaturesComponent },
   { path: "profil", component: ProfilComponent },
+  { path: "notification", component: NotifPrestatireComponent },
 ];

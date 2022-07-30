@@ -50,6 +50,12 @@ export const ROUTES: RouteInfo[] = [
     icon: "ni-circle-08 text-pink",
     class: "",
   },
+  {
+    path: "/notification",
+    title: "Notification",
+    icon: "ni-bell-55 text-pink",
+    class: "",
+  },
 ];
 
 @Component({
